@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446943533831",
+    "firebase_url": "https://magic-fridge-796df-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "magic-fridge-796df",
+    "storage_bucket": "magic-fridge-796df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446943533831:android:a220a8a34362166edec3a2",
+        "android_client_info": {
+          "package_name": "com.botkova.magicfridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446943533831-gq68ecpalc8tp8huc79dqgbegroohsgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.botkova.magicfridge",
+            "certificate_hash": "554e5625485a05d769ae7d8a0908088e1d7dc8bb"
+          }
+        },
+        {
+          "client_id": "446943533831-tq82se2f7s7ndgtnvso3neofdkch1gm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKCmn8OT5X1EeioUf45B70_zrAQ1uqplU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446943533831-tq82se2f7s7ndgtnvso3neofdkch1gm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
